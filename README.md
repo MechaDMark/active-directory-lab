@@ -26,8 +26,7 @@ Deploy a Windows Server 2022 Active Directory domain on Proxmox to understand en
 - Created VM with 4GB RAM, 2 cores, 40GB SCSI disk
 - Attached both ISOs and set boot order to CD/DVD first
 
-![VM Creation](<img width="597" height="447" alt="VMvm-creation" src="https://github.com/user-attachments/assets/6e616d53-c27e-45d7-bc7b-06b3c3efc5ef" />
-)
+![VM Creation](screenshots/vm-creation.png)
 
 ### 2. Install Windows Server
 - Selected Desktop Experience, loaded VirtIO SCSI driver to detect disk
