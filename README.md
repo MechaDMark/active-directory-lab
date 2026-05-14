@@ -44,4 +44,11 @@ Deploy a Windows Server 2022 Active Directory domain on Proxmox to understand en
 
 ![Active Directory Users and Computers](screenshots/aduc-domain.png)
 
+### 4. Create Organizational Units, Users, and Group Policy
+- Created OUs: LAB_Users, LAB_Computers, LAB_Admins
+- Added user: Shay T
+- Created Password Policy GPO enforcing minimum password length of 8, linked to domain
+
+![Users and OUs](screenshots/aduc-users.png)
+
 
