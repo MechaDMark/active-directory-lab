@@ -33,5 +33,5 @@ Deploy a Windows Server 2022 Active Directory domain on Proxmox to understand en
 - After first boot, loaded VirtIO network driver for Ethernet
 - Set Administrator password: `Homelab2024!`
 
-![Windows Desktop](<img width="983" height="615" alt="windows-desktop" src="https://github.com/user-attachments/assets/f057eb8a-0440-47a5-8273-81e691678796" />
-)
+![Windows Desktop](screenshots/windows-desktop.png)
+
