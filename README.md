@@ -35,3 +35,13 @@ Deploy a Windows Server 2022 Active Directory domain on Proxmox to understand en
 
 ![Windows Desktop](screenshots/windows-desktop.png)
 
+### 3. Configure Static IP and Promote to Domain Controller
+- Set static IP `192.168.0.120/24`, DNS `127.0.0.1`
+- Installed AD DS role via Server Manager
+- Promoted to a domain controller in a new forest `homelab.local`
+- Set DSRM password, ignored DNS delegation warning
+- Logged in as `HOMELAB\Administrator`
+
+![Active Directory Users and Computers](screenshots/aduc-domain.png)
+
+
