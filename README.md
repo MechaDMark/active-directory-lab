@@ -54,7 +54,7 @@ Deploy a Windows Server 2022 Active Directory domain on Proxmox to understand en
 # 5. Join a Windows 10 Client to the Domain
 - Created a Windows 10 VM, set DNS to domain controller IP (192.168.0.120)
 - Successfully joined client to `homelab.local`
-- Verified login with domain user `jdoe@homelab.local`
+- Verified login with domain user `shantaymentor@homelab.local`
 
 ![Domain Join](https://github.com/MechaDMark/active-directory-lab/blob/main/screenshots/Admin%20proof%20of%20user.png)
 ![Domain Login](https://github.com/MechaDMark/active-directory-lab/blob/main/screenshots/User%20Domain.png)
